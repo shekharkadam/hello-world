@@ -1,2 +1,2 @@
 # hello-world
-#This is my first git repository and is it master branch
+#This is my personal git repository and it is master branch
